@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45c34bdb-8853-466f-a8fb-880cec2cfe2d": {
+      "ProjectGuid": "45c34bdb-8853-466f-a8fb-880cec2cfe2d",
+      "DisplayName": "TIC_TAC_TOE",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
